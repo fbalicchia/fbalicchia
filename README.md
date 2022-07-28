@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fbalicchia
 - 👀 I’m interested in Distributed systems, networking, testing tools and security
 - 🔭 I’m currently working on .... An AI/ML Location Intelligence platform build on top of K8S using open source technologies
-- 🌱 I’m currently learning  Distributed Systems and Networking, trying to not forget the computer science fundamentals ;-)
+- 🌱 I’m currently playing with DuckDB, learning Databases Internals, query engine and Apache Arrow as universal in-memory tabular (“columnar”) format
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
