@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fbalicchia
-- 👀 I’m interested in Distributed systems, networking, testing tools and security
+- 👀 I’m interested in DataManagment systems, databases, and security data collaboration.
 - 🔭 I’m currently working on .... An AI/ML Location Intelligence platform build on top of K8S using open source technologies
 - 🌱 I’m currently playing with DuckDB, attempt to learn Databases Internals, query engine and Apache Arrow as universal in-memory tabular (“columnar”) format
 - 💞️ I’m looking to collaborate on ...
