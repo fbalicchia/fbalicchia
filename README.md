@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fbalicchia
-- 👀 I’m interested in DataManagment systems, databases, and security data collaboration.
+- 👀 I’m interested in Container orchestration, dataManagment systems, networking, distributed system.
 - 🔭 I’m currently working on .... An AI/ML Location Intelligence platform build on top of K8S using open source technologies
-- 🌱 I’m currently playing with DuckDB, attempt to learn Databases Internals, query engine and Apache Arrow as universal in-memory tabular (“columnar”) format
+- 🌱 I'm currently improving the knowledge of my interests trying to bring as much as possible on the platform where I working on
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
